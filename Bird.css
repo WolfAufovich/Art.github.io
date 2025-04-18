@@ -2,8 +2,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: content-box;
-    user-select: text;
-   -webkit-user-select: text;
+    user-select: none;
+   -webkit-user-select: none;
 }
 body{
     margin: auto;
