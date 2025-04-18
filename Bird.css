@@ -2,8 +2,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: content-box;
-    user-sekect: none;
-    -webkit-user-sekect: none;
+    user-select: none;
+    -webkit-user-select: none;
 }
 body{
     margin: auto;
